@@ -6,6 +6,8 @@ API_URL = "http://34.29.9.249:3000/api/project.all"
 api_key = "vbudoxiOABCikgXoVsLnhGDJRRzXRYAwyWGHyQVDQmxaxnbkSoMeRhGqssFQiCLb"
 app_name = "jobportal-frontend-icyvw3"
 
+
+
 def get_application_id():
    """Fetch Application ID"""
    headers = {
